@@ -1,0 +1,20 @@
+{
+  "name": "node-graphQL",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sai1004/node-graphQL.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sai1004/node-graphQL/issues"
+  },
+  "homepage": "https://github.com/sai1004/node-graphQL#readme"
+}
